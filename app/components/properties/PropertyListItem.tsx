@@ -16,6 +16,10 @@ const PropertyListItem = () => {
             <div className="mt-2">
                 <p className="text-lg font-bold">Property name</p>
             </div>
+
+            <div className="mt-2">
+                <p className="text-sm text-gray-500"><strong>$200</strong> Per Night</p>
+            </div>
         </div>
     )
 }
